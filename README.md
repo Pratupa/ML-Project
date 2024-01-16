@@ -1,1 +1,3 @@
 # ML-Project- Forest Fire Prediction
+It's worth noting that in some cases, controlled or prescribed burns may be used as a management tool in forestry. These intentional fires are carefully planned and supervised to reduce the risk of larger, uncontrolled wildfires by removing excess vegetation and promoting a healthier forest ecosystem. The goals of prescribed burns may include reducing the accumulation of flammable materials, enhancing biodiversity, and restoring or maintaining a natural fire regime.
+![image](https://github.com/Pratupa/ML-Project/assets/156296780/d1026eec-42db-48a1-84c9-0c9be951e9ae)
